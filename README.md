@@ -28,7 +28,8 @@ O:
 
 ## 🧠 Objetivo del análisis
 
-A través del análisis de los datasets disponibles (plans, users y usage), se busca:
+A través del análisis de los datasets disponibles (plans, users y usage), se busca: 
+
       - Comprender los patrones de consumo de los clientes en llamadas y mensajes.
       - Identificar diferencias de comportamiento según edad y nivel de uso.
       - Detectar valores atípicos (outliers) en el consumo de servicios.
