@@ -28,7 +28,10 @@ O:
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de EverPeak
+A través del análisis de los datasets disponibles (plans, users y usage), se busca:
+      - Comprender los patrones de consumo de los clientes en llamadas y mensajes.
+      - Identificar diferencias de comportamiento según edad y nivel de uso.
+      - Detectar valores atípicos (outliers) en el consumo de servicios.
+      - Segmentar a los clientes en grupos relevantes según su comportamiento.
+      - Generar insights que apoyen la toma de decisiones estratégicas.
+      - Proponer mejoras en los planes de telecomunicaciones basadas en los datos analizados.
