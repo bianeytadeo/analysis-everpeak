@@ -2,11 +2,11 @@
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso Análisis ConnectaTel.
 
-El dataset `Análisis ConnectaTel` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+El dataset `Análisis ConnectaTel` Trabajaremos con información registrada hasta el año 2024, lo cual permitirá analizar el comportamiento del negocio dentro de ese periodo.
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
+- `notebooks/sprint7-final-project.ipynb`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
